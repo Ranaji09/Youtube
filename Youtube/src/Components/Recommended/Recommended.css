@@ -1,0 +1,36 @@
+.recommended {
+     flex-basis: 19%;
+
+}
+
+.side-video-list {
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 8px;
+
+}
+
+.vide-info {
+     flex-basis: 49%;
+     margin: 5px;
+     width: 138px;
+}
+
+.side-video-list img {
+     width: 320px;
+     height: 160px;
+}
+
+.vide-info h3 {
+     font-size: 15px;
+     font-weight: 600;
+     margin-bottom: 4px;
+     text-decoration: dotted underline;
+}
+
+.vide-info h4 {
+     margin-bottom: 12px;
+     font-size: 12px;
+     width: 136px;
+     font-weight: 600;
+}
